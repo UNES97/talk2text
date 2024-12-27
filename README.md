@@ -1,18 +1,17 @@
-# Talk2Text 🎩✨
+# Talk2Text
 
-Your magical companion for transforming speech into text using the power of Transformers.js!
+A tool for converting speech into text using Transformers.js and the Whisper model.
 
-## 🚀 What's the Magic?
+## Overview
 
-Talk2Text Homie is a tool for converting audio to text with precision and speed, powered by Transformers.js and the Whisper tiny model.
+Whisper Wizard enables seamless audio-to-text transcription directly in the browser. Utilizing Transformers.js, this tool offers an efficient and reliable solution for speech processing.
 
-## ✨ Features
+## Features
 
-- **Real-Time Conversion**: Drop the beat, speak your mind, get text instantly
-- **Browser-Based**: Everything happens right in your browser with Transformers.js
-- **Offline Ready**: No internet? No problem! Works offline.
+- **Browser-Based**: All processing is handled in-browser using Transformers.js, ensuring privacy and ease of use.
+- **Offline Ready**: Designed to work without an internet connection.
 
-## 🛠️ Setup
+## Setup
 
 1. Clone the repo:
 ```bash
