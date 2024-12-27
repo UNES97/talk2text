@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body {
+    font-family: "Nunito Sans", serif;
+    overflow-x: hidden;
+}
+
+.floating-image {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    width: 200px;
+    height: auto;
+    z-index: 50;
+    transition: transform 0.3s ease-in-out;
+}
+
+.floating-image:hover {
+    transform: scale(1.1);
+}
+
+@media (min-width: 768px) {
+    .floating-image {
+        width: 100px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .floating-image {
+        width: 150px;
+    }
+}
