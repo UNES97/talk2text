@@ -4,7 +4,7 @@ Your go-to homie for turning speech into text with Transformers.js—quick, slic
 
 ## 🚀 What's the Deal?
 
-Talk2Text Homie is the ultimate tool for converting audio to text using Transformers.js and Whisper model. Whether you're decoding your freestyles, transcribing your podcasts, or taking notes from a meeting, this homie's got your back.
+Talk2Text Homie is the ultimate tool for converting audio to text using Transformers.js and Whisper model.
 
 ## 🔥 Features
 
