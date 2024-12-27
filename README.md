@@ -20,3 +20,6 @@ git clone https://github.com/yourusername/talk2text-homie.git
 ````
 
 2. Open index.html in your browser and start converting!
+
+https://github.com/user-attachments/assets/a355d7a5-007d-42ee-b991-17d969d1270d
+
