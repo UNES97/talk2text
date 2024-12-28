@@ -30,3 +30,13 @@ body {
         width: 150px;
     }
 }
+
+#languageSelect option {
+    background-color: #1e293b;
+    padding: 8px;
+}
+
+#languageSelect:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(139, 92, 246, 0.1);
+}

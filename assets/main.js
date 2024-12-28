@@ -138,7 +138,7 @@ document.getElementById('audioFile').addEventListener('change', async (event) =>
 
 document.getElementById('uploadTestAudio').addEventListener('click', async () => {
     try {
-        const response = await fetch('/jfk.wav');
+        const response = await fetch('assets/jfk.wav');
         const blob = await response.blob();
         await transcribeAudio(blob);
         
